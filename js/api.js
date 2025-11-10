@@ -37,7 +37,7 @@ const API_CONFIG = {
     HEADERS: {
         'Content-Type': 'application/json'
     },
-    TIMEOUT: 10000, // 10 segundos
+    TIMEOUT: 10000,
     // ✅ CONFIGURACIÓN: Cambiar a false en producción
     DEBUG_MODE: true  // true = desarrollo, false = producción
 };
